@@ -1,0 +1,29 @@
+body{
+    background-image: radial-gradient(rgb(11, 38, 213), rgb(12, 177, 62), rgb(76, 0, 255));
+}
+
+#score{
+    font-size: 35px;
+   float:left;
+   margin-left:20px;
+   color:white
+
+}
+#timer{
+    font-size: 35px;
+ float:right ;
+    margin-right:20px;
+    color:white;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+#sketch_to_be_drawn {
+    color:yellow
+}
+p, span{
+    padding-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
